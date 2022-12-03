@@ -1,0 +1,10 @@
+git init
+
+.gitignore file yarad icin doldur
+
+git add . filleri add eledi (. her seyi elave etmekdi)
+
+git remote add origin git@github.com:Ibbocs/ProgramlamaInMatrix.git
+git remote add origin git@github.com:Ibbocs/Ibbocs.git
+git branch -M main
+git push -u origin main
