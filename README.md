@@ -1,1 +1,1 @@
-# Django3
+# Django2
